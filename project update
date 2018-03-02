@@ -1,0 +1,9 @@
+MODULES
+   # Setup portfolio's and wishlist-Sowmika.R
+    Database connection to ui path 
+	 # Every five minutes fetch market price-Vignesh.N
+	  Calculation for alert setting
+	 # Alert preparation using template -Sukumar.P
+    Send alert message
+    #send mail-Manoj.S
+    60% of our modules are completed .
